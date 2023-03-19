@@ -13,6 +13,6 @@ const Blog = () => {
             <button id="blog-to-info"> Go to Info</button>
             <button id="blog-to-home"> Go to Home</button>
         </div>
-    )
-}
+    );
+};
 export default Blog
