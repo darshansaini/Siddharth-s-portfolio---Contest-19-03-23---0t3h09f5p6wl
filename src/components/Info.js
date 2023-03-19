@@ -14,6 +14,6 @@ const Info = () => {
              <button id="info-to-blog"> Go to Blog</button>
             <button id="info-to-home"> Go to Home</button>
         </div>
-    )
-}
+    );
+};
 export default Info
