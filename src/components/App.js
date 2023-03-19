@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react';
 import '../styles/App.css';
 // import { BrowserRouter as Router, Route,Link,Switch } from 'react-router-dom';
 import { BrowserRouter as Router, Route, Switch, Redirect, NavLink, Link } from 'react-router-dom';
