@@ -1,5 +1,5 @@
-import React from 'react'
-import { Link } from 'react-router-dom'
+import React from 'react';
+import { Link } from 'react-router-dom';
 const Home = () => {
 
     return (
@@ -12,6 +12,6 @@ const Home = () => {
             <button id="home-to-info"> Go to Info</button>
 
         </div>
-    )
-}
+    );
+};
 export default Home
